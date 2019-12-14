@@ -1,0 +1,2 @@
+print("CZESC")
+print("aaaa")
